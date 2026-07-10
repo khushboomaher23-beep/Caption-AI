@@ -49,10 +49,6 @@ The following supporting resources are referenced in the project report:
   
   *6. Running Flask Application*: https://drive.google.com/file/d/1iwhZK72p77o5FLWVi4pq62NVtuTs1QN6/view?usp=sharing
 
-## Report File
-
- **CaptionAI_Project_Report.pdf**
-
 ## Developer
 
   Khushboo Meena
